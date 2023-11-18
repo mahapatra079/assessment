@@ -1,0 +1,14 @@
+*{margin: 0px;padding: 0;box-sizing: border-box;}.container{width: 1160px;margin: 0 auto;max-width: 1160px;}
+.card{padding:12px;position: relative;overflow: hidden;border: 1px solid #ddd;margin-bottom: 20px;background-color: #fff;}
+
+
+.gm-style-iw.gm-style-iw-c {border-radius: 4px;padding: 16px;line-height: 20px;}
+.gm-style .gm-style-iw-c{top: -40px;}.gm-style .gm-style-iw-tc::after{background: unset;}
+strong{font-size: 16px;}p{margin-top: 10px;font-weight: bold;}
+span{display: block;margin-top: 10px;font-size: 14px;font-weight: 300;}
+
+.data-info span{font-size: 20px;}
+
+
+/*helper-styles*/
+.mt60{margin-top: 60px;}
